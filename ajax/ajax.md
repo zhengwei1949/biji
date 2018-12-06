@@ -1,3 +1,6 @@
+
+
+
 readyState values
 0 -> request not initialized
 1 -> server connection established
